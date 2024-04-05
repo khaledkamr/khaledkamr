@@ -6,9 +6,11 @@
 <h2 align="center">passionate of coding</h2>
 
 [<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledkamr" alt="khaledkamr" /></a> </p>]:<>
-  
-<p align="center">🛠 I’m currently working with C++, python <br> 🔭 I’m currently working on my personal portfolio <br> 🌱 I’m currently learning AI,data science <br>
- 📫 How to reach me khaledkamar3333@gmail.com </p>
+
+- 🛠 I’m currently working with C++, python
+- 🔭 I’m currently working on my personal portfolio
+- 🌱 I’m currently learning AI,data science
+- 📫 How to reach me khaledkamar3333@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
