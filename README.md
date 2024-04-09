@@ -7,6 +7,8 @@
 
 [<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledkamr" alt="khaledkamr" /></a> </p>]:<>
 
+I'm a junior student at Misr University For Science and Technology (MUST) 🏛. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Artificial Intelligence an data science.
+
 - 🛠 I’m currently working with C++, python
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning AI,data science
