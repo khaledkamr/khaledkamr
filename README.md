@@ -30,7 +30,7 @@
 <h3 align="center">☄️ Github Stats:<h3>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github status" /></p><p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used language"  /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github status" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used language">
 
 
