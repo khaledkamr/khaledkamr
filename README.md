@@ -64,7 +64,7 @@
  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
  </a> 
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+ <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt="mssql" width="40" height="40"/> 
  </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
