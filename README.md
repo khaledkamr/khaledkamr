@@ -1,28 +1,17 @@
 
 <div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Khaled+and+Welcome+to+my+Profile!" alt="Hey, I'm Khaled and Welcome to my Profile! animated typed out" width="80%" align="middle" />
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 </div>
 <br>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" width="400"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=6&layout=compact" alt="Most used language" width="300"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Watch-dogs2-dedsec.gif?20220712111525" width=1015px align="center">
-
-
- <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=passionate+of+coding" alt="passionate of coding animated typed out" width="80%" align="middle" />
- </div>
- <hr>
+<img src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
 
 [<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledkamr" alt="khaledkamr" /></a> </p>]:<>
 
-- 🛠 I’m currently working with C++, python
-- 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning AI,data science
-- 📫 How to reach me khaledkamar3333@gmail.com
 
-<hr>
-<h3 align="center">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <p align="center">
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -72,15 +61,16 @@
  </p> 
 
 <hr>
-
+<!-- 
 <h3 align="center">☄️ Github Stats:<h3>
 
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" />
 </p>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github status" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=8&layout=compact" alt="Most used language" width="355"/>
 </p>
-
+ -->
 
