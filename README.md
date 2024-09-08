@@ -3,8 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Khaled+and+I'm+a+full+stack+web+developer!" alt="Hey, I'm Khaled and Welcome to my Profile! animated typed out" width="80%" align="middle" />
 </div>
 <br>
+
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" width="400"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" width="418"/>
 &nbsp;
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=6&layout=compact" alt="Most used language" width="300"/>
 </p>
