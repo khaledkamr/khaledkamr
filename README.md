@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Khaled+and+I'm+a+full+stack+web+developer!" alt="Hey, I'm Khaled and Welcome to my Profile! animated typed out" width="80%" align="middle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Khaled+and+I'm+a+full+stack+web+developer!" alt="Hey, I'm Khaled and Welcome to my Profile! animated typed out" width="80%" align="middle" />
 </div>
 <br>
 
@@ -62,6 +62,7 @@
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
  </a> 
+  
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a> 
