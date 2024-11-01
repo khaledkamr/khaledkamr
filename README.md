@@ -69,9 +69,6 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
  </a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-   <img src="imgs//php.png" alt="php" width="45" height="33"/>
- </a>
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
  </a> 
@@ -81,6 +78,9 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
  </a> 
+ <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="imgs//php.png" alt="php" width="45" height="33"/>
+ </a>
  </p> 
 
 <!-- 
