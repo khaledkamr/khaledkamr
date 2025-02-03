@@ -72,15 +72,15 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
  </a> 
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+  <img src="imgs/Laravel.png" alt="Laravel" width="40" height="40"/> 
+ </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
  </a> 
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="imgs//php.png" alt="php" width="45" height="33"/>
  </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="imgs/Laravel.png" alt="Laravel" width="40" height="40"/> 
- </a> 
  </p> 
 
 <!-- 
