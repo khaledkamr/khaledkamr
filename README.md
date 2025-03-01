@@ -5,7 +5,8 @@
 <br>
 
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" width="418"/>
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" width="418"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="380" alt="Github status" />
 &nbsp;
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=6&layout=compact" alt="Most used language" width="300"/>
 </p>
@@ -83,8 +84,8 @@
  </a>
  </p> 
 
-<!-- 
-<h3 align="center">☄️ Github Stats:<h3>
+
+<!-- <h3 align="center">☄️ Github Stats:<h3>
 
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" />
