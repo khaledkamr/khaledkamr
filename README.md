@@ -12,7 +12,7 @@
 </p>
 
 
-<img align="right" src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="dog coding meme" width="350">
+<img align="right" src="imgs/problem-solve.gif" alt="dog coding meme" width="310">
 
 <p>
 <h3>Connect with me:</h3>
