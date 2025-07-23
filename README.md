@@ -90,6 +90,6 @@
 </p> 
 
 
-<div align="right">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=khaledkamr.khaledkamr&"  />
 </div>
