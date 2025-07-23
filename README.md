@@ -6,7 +6,7 @@
 
 <p align="center">
 <!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" width="418"/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="380" alt="Github status" />
+<img src="https://github-readme-stats.vercel.app/api?username=khaledkamr&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="380" alt="Github status" />
 &nbsp;
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=6&layout=compact" alt="Most used language" width="300"/>
 </p>
@@ -34,50 +34,70 @@
 <h3>Languages and Tools:</h3>
 <p>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
  </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
- </a> 
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
  </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css3" width="38" height="37"/> 
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
  </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="imgs/HTML.png" alt="html5" width="48" height="38"/> 
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
  </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="38"/> 
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
  </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="46" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
  </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
- </a> 
- <br>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+ </a>
+ 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
  </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
  </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
  </a> 
  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="imgs/Laravel.png" alt="Laravel" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
  </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
  </a> 
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="imgs//php.png" alt="php" width="45" height="33"/>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
  </a>
- </p> 
+ <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+ </a>
+</p> 
 
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=khaledkamr.khaledkamr&"  />
+</div>
+
+###
 
 <!-- <h3 align="center">☄️ Github Stats:<h3>
 
