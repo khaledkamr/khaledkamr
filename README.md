@@ -22,13 +22,10 @@
     <a href="mailto:khaledkamar3333@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
   </a>
-    <a href="https://discord.com/users/khaledkamr">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Discord logo" />
+    <a href="https://x.com/khaledkamrr">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter logo" />
   </a>
 </p>
-
-
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledkamr" alt="khaledkamr" /></a> </p>]:<>
 
 
 <h3>Languages and Tools:</h3>
@@ -96,18 +93,3 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=khaledkamr.khaledkamr&"  />
 </div>
-
-###
-
-<!-- <h3 align="center">☄️ Github Stats:<h3>
-
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkamr&theme=dark&hide_border=false" alt="Github streak" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github status" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=8&layout=compact" alt="Most used language" width="355"/>
-</p>
- -->
-
